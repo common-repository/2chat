@@ -1,0 +1,64 @@
+{
+    "add_new": "Add new",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "phone": "Phone",
+    "shortcode": "Shortcode",
+    "alias":"Aliases",
+    "actions": "Actions",
+    "save_data": "Save data",
+    "tool_wa_button_generator_preview_button": "Reload Whatsapp button preview",
+    "copyboard_ok":"Text copied to clipboard",
+    "copyboard_error":"Error copying to clipboard",
+    "copy_shortcode":"Copy Shortcode",
+
+    "delete_confirm_message": "Are you sure you want to delete this button?",
+    "tool_wa_buton_empty_list_message": "You haven't generated any buttons yet",
+
+    "tool_wa_button_generator_list_title": "Whatsapp button list",
+    "tool_wa_button_generator_form_title": "whatsapp button for your website",
+    "tool_wa_button_generator_alias_repeat": "The alias is already in use, please try again with another alias",
+    "tool_wa_button_generator_alias_unknow": "No data found for the specified Alias",
+
+    "tool_wa_button_generator_sub_title": "Use this free tool to create a custom WhatsApp floating button that you can place on your own website",
+    "tool_wa_button_generator_input_alias_helper": "This alias will be the identifier to get the button through the shortcode",
+
+    "tool_wa_button_generator_input_chat_box_label": "Chat Box Title",
+    "tool_wa_button_generator_input_chat_box_default_value": "Welcome!",
+    "tool_wa_button_generator_input_chat_box_helper": "Suggestion: use your brand name or company name here",
+
+    "tool_wa_button_generator_input_status_text_label": "Status text",
+    "tool_wa_button_generator_input_status_text_default_value": "We typically reply within 1 hour",
+    "tool_wa_button_generator_input_status_text_helper": "Suggestion: use your brand name or company name here",
+
+    "tool_wa_button_generator_input_greeting_message_label": "Greeting message",
+    "tool_wa_button_generator_input_greeting_message_default_value": "Hey there! 👋\nHow can we help you?",
+    "tool_wa_button_generator_input_greeting_message_helper": "Suggestion: use your brand name or company name here",
+
+    "tool_wa_button_generator_input_visitor_message_placeholder_label": "Visitor message placeholder",
+    "tool_wa_button_generator_input_visitor_message_placeholder_default_value": "Type your message...",
+    "tool_wa_button_generator_input_visitor_message_placeholder_helper": "This text will tell the visitors where they should write their message",
+
+    "tool_wa_button_generator_input_phone_number_label": "Phone Number",
+    "tool_wa_button_generator_input_phone_number_helper": "This is your WhatsApp phone number where messages should arrive. It should always be in international format",
+
+    "tool_wa_button_generator_input_color_scheme_label": "Color scheme",
+    "tool_wa_button_generator_input_color_scheme_helper": "`Automatic` will select the scheme based on the visitor's browser configuration",
+    "tool_wa_button_generator_input_color_scheme_automatic": "Automatic",
+    "tool_wa_button_generator_input_color_scheme_light": "Light",
+    "tool_wa_button_generator_input_color_scheme_dark": "Dark",
+
+    "tool_wa_button_generator_input_position_label": "Position",
+    "tool_wa_button_generator_input_position_helper": "Where in the screen the widget will be displayed",
+    "tool_wa_button_generator_input_position_right": "Right",
+    "tool_wa_button_generator_input_position_left": "Left",
+
+    "tool_wa_button_generator_input_notification_badge_label": "Show notification badge",
+    "tool_wa_button_generator_input_notification_badge_helper": "The badge will be displayed to influence the visitor to write you a message. Once the notification is displayed, it will remain hidden for 24 hours",
+    "tool_wa_button_generator_input_notification_badge_show": "Show once every 24 hours",
+    "tool_wa_button_generator_input_notification_badge_none": "No Notifications",
+
+    "tool_wa_button_generator_button_helper": "Below you can see how the Whatsapp Button would look on your website",
+    "tool_wa_button_generator_back_to_dashboard":"Back to dashboard"
+}

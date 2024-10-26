@@ -1,0 +1,64 @@
+{
+    "add_new": "Adicionar novo",
+    "cancelar": "Cancelar",
+    "excluir": "Excluir",
+    "editar": "Editar",
+    "telefone": "Telefone",
+    "código curto": "Código curto",
+    "alias":"Alias",
+    "ações": "Ações",
+    "save_data": "Salvar dados",
+    "tool_wa_button_generator_preview_button": "Recarregar visualização do botão Whatsapp",
+    "copyboard_ok":"Texto copiado para a área de transferência",
+    "copyboard_error":"Erro ao copiar para a área de transferência",
+    "copy_shortcode":"Copiar código curto",
+
+    "delete_confirm_message": "Tem certeza que deseja excluir este botão?",
+    "tool_wa_buton_empty_list_message": "Você ainda não gerou nenhum botão",
+
+    "tool_wa_button_generator_list_title": "Lista de botões do Whatsapp",
+    "tool_wa_button_generator_form_title": "botão whatsapp para seu site",
+    "tool_wa_button_generator_alias_repeat": "O alias já está em uso, tente novamente com outro alias",
+    "tool_wa_button_generator_alias_unknow": "Nenhum dado encontrado para o Alias ​​especificado",
+
+    "tool_wa_button_generator_sub_title": "Use esta ferramenta gratuita para criar um botão flutuante do WhatsApp personalizado que você pode colocar em seu próprio site",
+    "tool_wa_button_generator_input_alias_helper": "Este alias será o identificador para obter o botão através do shortcode",
+
+    "tool_wa_button_generator_input_chat_box_label": "Título da caixa de bate-papo",
+    "tool_wa_button_generator_input_chat_box_default_value": "Bem-vindo!",
+    "tool_wa_button_generator_input_chat_box_helper": "Sugestão: use o nome da sua marca ou empresa aqui",
+
+    "tool_wa_button_generator_input_status_text_label": "Texto de status",
+    "tool_wa_button_generator_input_status_text_default_value": "Normalmente respondemos em 1 hora",
+    "tool_wa_button_generator_input_status_text_helper": "Sugestão: use o nome da sua marca ou empresa aqui",
+
+    "tool_wa_button_generator_input_greeting_message_label": "Mensagem de saudação",
+    "tool_wa_button_generator_input_greeting_message_default_value": "Olá! 👋\nComo podemos ajudá-lo?",
+    "tool_wa_button_generator_input_greeting_message_helper": "Sugestão: use o nome da sua marca ou empresa aqui",
+
+    "tool_wa_button_generator_input_visitor_message_placeholder_label": "Espaço reservado para mensagem do visitante",
+    "tool_wa_button_generator_input_visitor_message_placeholder_default_value": "Digite sua mensagem...",
+    "tool_wa_button_generator_input_visitor_message_placeholder_helper": "Este texto dirá aos visitantes onde eles devem escrever sua mensagem",
+
+    "tool_wa_button_generator_input_phone_number_label": "Número de telefone",
+    "tool_wa_button_generator_input_phone_number_helper": "Este é o seu número de telefone WhatsApp onde as mensagens devem chegar. Deve estar sempre em formato internacional",
+
+    "tool_wa_button_generator_input_color_scheme_label": "Esquema de cores",
+    "tool_wa_button_generator_input_color_scheme_helper": "`Automático` selecionará o esquema com base na configuração do navegador do visitante",
+    "tool_wa_button_generator_input_color_scheme_automatic": "Automático",
+    "tool_wa_button_generator_input_color_scheme_light": "Luz",
+    "tool_wa_button_generator_input_color_scheme_dark": "Escuro",
+
+    "tool_wa_button_generator_input_position_label": "Posição",
+    "tool_wa_button_generator_input_position_helper": "Onde na tela o widget será exibido",
+    "tool_wa_button_generator_input_position_right": "Direita",
+    "tool_wa_button_generator_input_position_left": "Esquerda",
+
+    "tool_wa_button_generator_input_notification_badge_label": "Mostrar selo de notificação",
+    "tool_wa_button_generator_input_notification_badge_helper": "O selo será exibido para influenciar o visitante a escrever uma mensagem para você. Uma vez que a notificação for exibida, ela permanecerá oculta por 24 horas",
+    "tool_wa_button_generator_input_notification_badge_show": "Mostrar uma vez a cada 24 horas",
+    "tool_wa_button_generator_input_notification_badge_none": "Sem notificações",
+
+    "tool_wa_button_generator_button_helper": "Abaixo você pode ver como o Botão Whatsapp ficaria em seu site",
+    "tool_wa_button_generator_back_to_dashboard":"Voltar à página principal"
+}

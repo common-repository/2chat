@@ -1,0 +1,64 @@
+{
+    "add_new": "Agregar nuevo",
+    "cancel": "Cancelar",
+    "delete": "Borrar",
+    "edit": "Editar",
+    "phone": "Teléfono",
+    "shortcode": "Shortcode",
+    "alias":"Alias",
+    "actions": "Acciones",
+    "save_data": "Guardar datos",
+    "tool_wa_button_generator_preview_button": "Recargar vista previa del botón de whatsapp",
+    "copyboard_ok":"Texto copiado al portapapeles",
+    "copyboard_error":"Error al copiar al portapapeles",
+    "copy_shortcode":"Copiar Shortcode",
+
+    "delete_confirm_message": "¿Estás seguro de que deseas borrar este botón?",
+    "tool_wa_buton_empty_list_message": "Todavía no tienes generado ningún botón",
+
+    "tool_wa_button_generator_list_title": "Lista de botones de whatsapp",
+    "tool_wa_button_generator_form_title": "botón de whatsapp para tu sitio web",
+    "tool_wa_button_generator_alias_repeat": "El alias ya está siendo utilizado, por favor vuelve a intentarlo con otro alias",
+    "tool_wa_button_generator_alias_unknow": "No se encontraron datos para el Alias especificado",
+
+    "tool_wa_button_generator_sub_title": "Utiliza esta herramienta gratuita para crear un botón flotante personalizado de WhatsApp que puedes colocar en tu propio sitio web",
+    "tool_wa_button_generator_input_alias_helper": "Este alias será el identificador para obtener el botón mediante el shortcode",
+
+    "tool_wa_button_generator_input_chat_box_label": "Título principal",
+    "tool_wa_button_generator_input_chat_box_default_value": "¡Te damos la bienvenida!",
+    "tool_wa_button_generator_input_chat_box_helper": "Sugerencia: puedes usar el nombre de tu marca o empresa aquí",
+
+    "tool_wa_button_generator_input_status_text_label": "Texto de estado",
+    "tool_wa_button_generator_input_status_text_default_value": "Solemos responder en menos de una hora",
+    "tool_wa_button_generator_input_status_text_helper": "Sugerencia: agrega un text informativo aquí, como por ejemplo tus horarios de atención o en cuánto tiempo sueles responder a los mensajes",
+
+    "tool_wa_button_generator_input_greeting_message_label": "Mensaje de Saludo",
+    "tool_wa_button_generator_input_greeting_message_default_value": "Hola! 👋\nCómo podemos ayudarte?",
+    "tool_wa_button_generator_input_greeting_message_helper": "Este texto será mostrado a los visitantes de tu página como un mensaje nuevo",
+
+    "tool_wa_button_generator_input_visitor_message_placeholder_label": "Caja de respuesta",
+    "tool_wa_button_generator_input_visitor_message_placeholder_default_value": "Escribe tu mensaje aquí...",
+    "tool_wa_button_generator_input_visitor_message_placeholder_helper": "Este texto sirve como ayuda para que tu visitante sepa dónde escribir su respuesta",
+
+    "tool_wa_button_generator_input_phone_number_label": "Número de teléfono",
+    "tool_wa_button_generator_input_phone_number_helper": "Este valor debe ser el número de WhatsApp a donde los mensajes deberían llegarte. Siempre debe estar en formato internacional",
+
+    "tool_wa_button_generator_input_color_scheme_label": "Esquema de colores",
+    "tool_wa_button_generator_input_color_scheme_helper": "Elige `Automático` para que el mejor color sea detectado en base al navegador de tu visitante",
+    "tool_wa_button_generator_input_color_scheme_automatic": "Automático",
+    "tool_wa_button_generator_input_color_scheme_light": "Claro",
+    "tool_wa_button_generator_input_color_scheme_dark": "Oscuro",
+
+    "tool_wa_button_generator_input_position_label": "Posición",
+    "tool_wa_button_generator_input_position_helper": "En qué parte de la pantalla (abajo) la burbuja de chat será mostrada",
+    "tool_wa_button_generator_input_position_right": "Izquierda",
+    "tool_wa_button_generator_input_position_left": "Derecha",
+
+    "tool_wa_button_generator_input_notification_badge_label": "Mostrar notificación",
+    "tool_wa_button_generator_input_notification_badge_helper": "Esta insigina será mostrada para influenciar a tus visitantes a escribirte un mensaje. Cuando la notificación es mostrada, quedará oculta por 24 horas para evitar ser una molestia",
+    "tool_wa_button_generator_input_notification_badge_show": "Mostrar una vez cada 24 horas",
+    "tool_wa_button_generator_input_notification_badge_none": "No mostrar nada",
+
+    "tool_wa_button_generator_button_helper": "Aquí abajo puedes visualizar como se vería el Botón de WhatsApp en tu sitio web",
+    "tool_wa_button_generator_back_to_dashboard":"Volver a la página principal"
+}
